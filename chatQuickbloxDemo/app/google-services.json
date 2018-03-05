@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "952760524021",
+    "firebase_url": "https://demoquickblox-f0720.firebaseio.com",
+    "project_id": "demoquickblox-f0720",
+    "storage_bucket": "demoquickblox-f0720.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952760524021:android:c6530fa6cbbd12dc",
+        "android_client_info": {
+          "package_name": "com.example.agilsun.demoquickblox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952760524021-4njvsgst4i5ffqph3r7ilvm095q8pvi6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agilsun.demoquickblox",
+            "certificate_hash": "d312d36ce466d7aa065369f420ce3645ca73d03c"
+          }
+        },
+        {
+          "client_id": "952760524021-ta5luj2cqihsuondpqoara934dplg8p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcAcMkQKTzk8FVQnsOaOqbHuxHxY619_k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952760524021-ta5luj2cqihsuondpqoara934dplg8p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
